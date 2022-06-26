@@ -1,2 +1,0 @@
-# shop-ebi
-upload site
